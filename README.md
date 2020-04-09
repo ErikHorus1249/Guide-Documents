@@ -1,1 +1,1 @@
-Guide for new beginer
+Use Linux more effectively :>
