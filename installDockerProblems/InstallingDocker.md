@@ -7,7 +7,7 @@
 
 + Check : service docker status
 
-+ Pronblem 1: /img/dockerInactive.jpg
++ Pronblem 1: /img/dockerInactive.png
 
 + Fix command : systemcl restart docker
 

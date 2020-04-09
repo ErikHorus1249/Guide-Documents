@@ -29,7 +29,7 @@ sudo chmod +x
 lệnh cấp quyền chạy run cho nguoiừ dùng 
 
 
-cài xamp
+cài xampp
 
 cài nautilus
 
