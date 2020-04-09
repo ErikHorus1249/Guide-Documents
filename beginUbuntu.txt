@@ -37,4 +37,5 @@ terminal color : word: #FC754A;  background:#010A0D;  text: #9AD6BA;
 
 
 cài docker trên ubuntu/ kali : sudo apt install docker.io
+cài khóa GPG : sudo apt-get install gnupg //https://cystack.net/vi/resource/huong-dan-su-dung-gpg-de-ma-hoa-va-ky-thong-diep/
 
