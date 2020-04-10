@@ -1,7 +1,7 @@
 
 author : [Erik Horus](https://github.com/ErikHorus1249)
 
-**Docker exec, save container to  image by  commit, export  image file**
+### II Thực thi lệnh từ host bằng exec, sử lý container bằng commit và load  
 
 
 * Thi hành lệnh từ host : ```docker exec <nameContainer> command ```
@@ -21,5 +21,5 @@ author : [Erik Horus](https://github.com/ErikHorus1249)
 * Tải image từ file nén : ```docker load - <file.tar> ```
 	* Đặt tên lại cho image mới load : ```docker tag <ID> "newImage":"tag"```
 	
-	**DONE**
+	### To be continued  ..
 
