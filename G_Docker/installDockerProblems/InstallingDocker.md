@@ -1,30 +1,47 @@
 
-//author : Erik Horus
+author : [Erik Horus](https://github.com/ErikHorus1249)
 
-#INSTALL DOCKER ON UBUNTU/KALI LINUX
+# Cài đặt Docker trên OS  Ubuntu/Kali Linux 
 
-+ Install Docker by command : sudo apt-get install docker.io
+**I. Lệnh cài đặt docker**
+- Cập nhật OS : ```sudo apt update -y```
 
-+ Check : service docker status
+-  Cài Docker bằng lệnh sau  : ```sudo apt-get install docker.io```
 
-+ Pronblem 1: /img/dockerInactive.png
+**II. Kiểm tra thông tin docker sau khi cài đặt**
+- Sau khi cài đặt docker kiểm tra cài đặt có thành công hay không : ```docker```
+- Đừng lo lắng khi bạn thấy dòng chữ sau hiện lên : ```bash: docker: command not found```
+- Hãy khởi động  docker bằng lệnh sau : ```service docker start``` nhập userpassword và ```Enter```
+- Và giờ bạn có thể tiểm tra trạng thái của docker client và demon sau khi cài đặt  : ```service docker status``` 
+- ![Docker đã sẵn sàng](https://imgur.com/undefined)
+- 
+**III. Một số sự cố nhỏ**
 
-+ Fix command : systemcl restart docker
+ -![ docker inactive :](https://imgur.com/ION4Dpm)
 
-+ Pronblem 2: /img/dockerisvrIsMasked.png
-           /img/dockerscrIsMakerAfterCheck.png
++ Hãy bình tĩnh và restart service  : ```systemcl restart docker```
 
-+ Check service masked : sudo systemctl list-unit-files
++ Kiểm tra xem  service mask chưa  : ```sudo systemctl list-unit-files```
 
-+ Fix command : sudo systemctl unmask docker && systemctl restart docker
+ ![Chưa mask](https://imgur.com/Hb0hJVL)
 
-===========>>>>> DONE .
-NOTE: You can install it the way presented on the official webside of Docker :https://docs.docker.com/engine/install/ubuntu/
-Reference link :https://forums.docker.com/t/failed-to-start-docker-service-unit-is-masked/67413
-andropytool : https://github.com/alexMyG/AndroPyTool
-me: https://github.com/ErikHorus1249
++ Fix command : ```sudo systemctl unmask docker && systemctl restart docker```
 
------------>>>>> THANK FOR READING
+![Đã mask]( https://imgur.com/pK5xe8u)
+
+![Done](https://imgur.com/Sl29bGQ)
+
+![Docker is active](https://imgur.com/1ps9X2b)
+
+- **Xong rồi hãy voọc thật nhiều với Docker .**
+## credit:
+* Bạn có thể tìm thêm thông tin tại trang chủ của  [Docker](https://docs.docker.com/engine/install/ubuntu/)
+* [Reference link](https://forums.docker.com/t/failed-to-start-docker-service-unit-is-masked/67413)
+* [andropytool](https://github.com/alexMyG/AndroPyTool)
+* [me](https://github.com/ErikHorus1249)
+
+**THANK FOR READING**
+
 
 
 
