@@ -62,7 +62,7 @@ date : 13/04/2020
 #### b. Cài đặt tiện ích  giao diện bằng gsettings với Dconf Editor hoặc dùng lệnh trực tiếp 
 - Khi bật một cửa sổ mới ở trung tâm màn hình : 
 	 - Khởi chạy **Dconf Editor** và truy cập `/org/gnome/mutter/`. Đặt `center-new-windows` `true` 
-	- Lệnh : `gsettings set org.gnome.mutter.center-new-windows true`
+	- Lệnh : `gsettings set org.gnome.mutter center-new-windows true`
 - Hiển thị giây ở đồng hồ : `gsettings set org.gnome.desktop.interface clock-show-seconds true`
 
 => còn rất nhiều tính năng bạn có thể khởi động qua **gsettings** hãy khám phá nó để có được giao diện phù hợp với bạn. 
