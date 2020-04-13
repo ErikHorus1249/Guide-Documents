@@ -1,3 +1,7 @@
+
+author : [Erik Horus](https://github.com/ErikHorus1249) 
+date : 13/04/2020
+![](https://i.imgur.com/2VEIasN.jpg)
 ## Cài đặt cơ bản sau khi cài Ubuntu 
 ## I. Cập nhật hệ  thống 
 - Open **terminal** : 
@@ -79,7 +83,9 @@ Cửa sổ new teminal hiển thị giữa màn hình.
 - Sử dụng lệnh cấp quyền chạy run cho người dùng 
 > `sudo chmod + x`
 > `./<namOfRunXampp>`
-
+### e. Cài Docker
+- Mọi hướng dẫn về docker : [tại  đây](./G_Docker/installDockerProblems/InstallingDocker.md)
+![](https://i.imgur.com/jyvBLIr.png)
 ### Xong rồi . 
 
 #### credit 
