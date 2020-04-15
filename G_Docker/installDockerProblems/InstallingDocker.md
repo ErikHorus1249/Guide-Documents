@@ -8,11 +8,11 @@ date : [15/04/2020](h)
 Xin chào, mình là Erik ngay sau đây là các bước cài Docker mà bạn có thể tham khảo. Đồng thời mình sẽ chỉ ra một số lỗi hay mắc phải khi cài Docker trên hệ điều hành Ubuntu hay Kali Linux.
 - Cập nhật OS : 
 
-> ```sudo apt update -y```
+> ```$ sudo apt update -y```
 
 -  Cài Docker bằng lệnh sau  : 
 
-> ```sudo apt-get install docker.io```
+> ```$ sudo apt-get install docker.io```
 
 - Sau khi máy bạn thực hiện xong công việc trên hãy khởi động Docker :
 
@@ -39,6 +39,7 @@ Hoặc
 Hoặc
 
 > `$ docker info`
+
 > Client:  Debug Mode: false
 > 
 > Server:  Containers: 0   Running: 0   Paused: 0   Stopped: 0  Images:
@@ -77,7 +78,7 @@ Hoặc
 
 >  $ sudo usermod -aG docker $USER
 
--  Sau đó hãy restart máy tính của bạn vào vào lại **docker**
+-  Sau đó hãy **restart** máy tính của bạn vào vào lại **docker**
 
  ### Cảm ơn đã theo dõi hết bài viết này .
 ## credit:
