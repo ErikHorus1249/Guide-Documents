@@ -40,9 +40,9 @@ Hoặc
 
 > `$ docker info`
 
-> Client:  Debug Mode: false
+> [**Client**](h):  Debug Mode: false
 > 
-> Server:  Containers: 0   Running: 0   Paused: 0   Stopped: 0  Images:
+> [**Server**](h):  Containers: 0   Running: 0   Paused: 0   Stopped: 0  Images:
 > 1  Server Version: 19.03.8  Storage Driver: overlay2   Backing
 > Filesystem: <unknown>   Supports d_type: true   Native Overlay Diff:
 > true  Logging Driver: json-file  Cgroup Driver: cgroupfs  Plugins:  
