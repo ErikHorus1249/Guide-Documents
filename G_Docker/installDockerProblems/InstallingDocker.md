@@ -1,11 +1,12 @@
 
+
 by  [Erik Horus](https://github.com/ErikHorus1249)
 date : [15/04/2020](h)
 ![](https://i.imgur.com/jyvBLIr.png)
 # Cài đặt Docker trên OS  Ubuntu/Kali Linux 
 
 ## I. Cài đặt docker
-Xin chào, mình là Erik ngay sau đây là các bước cài Docker mà bạn có thể tham khảo. Đồng thời mình sẽ chỉ ra một số lỗi hay mắc phải khi cài Docker trên hệ điều hành Ubuntu hay Kali Linux.
+Xin chào, mình là **[Erik](h)** ngay sau đây là các bước cài **[**Docker**](https://www.docker.com/)** mà bạn có thể tham khảo. Đồng thời mình sẽ chỉ ra một số lỗi hay mắc phải khi cài Docker trên hệ điều hành Ubuntu hay Kali Linux.
 - Cập nhật OS : 
 
 > ```$ sudo apt update -y```
