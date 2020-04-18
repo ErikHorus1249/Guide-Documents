@@ -8,4 +8,5 @@
  - [ Linux log ](./Ubuntu/Log.md)
  - [ MySql settings](./Ubuntu/Mysqlsetting.md)
  - [ Mysql unistaling](./ubuntu/UninstallMysql.md)
+ - [ 4. Cài đặt Java8 Ubuntu ](./InstallJava/installJv.md)
 
