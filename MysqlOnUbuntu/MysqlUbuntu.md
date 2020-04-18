@@ -1,3 +1,4 @@
+
 by [Erik Horus](https://github.com/ErikHorus1249)
 date : 18/04/2020 
 
@@ -35,7 +36,8 @@ date : 18/04/2020
 
 > $ sudo apt-get install -y mysql-community-server
 ![](https://i.imgur.com/KPhlJJB.png)
-- Nhập vào password bạn muốn đặt 
+- Nhập vào **root password** bạn muốn đặt.
+
 ![](https://i.imgur.com/X2O3zR4.png)
 - Chọn **OK**
 + Hoàn tất bằng lệnh: 
@@ -44,8 +46,11 @@ date : 18/04/2020
  #### Bước 3- Kiểm tra và xác nhận cài đặt thành công.
  - Kiểm tra đã cài thành công chưa : 
 > `$ sudo service mysql status`
+
 ![](https://i.imgur.com/HaFO2Ds.png)
+- Khởi động **mysql** : 
 > `$ mysql -u root -p`
+
 
 ![](https://i.imgur.com/PFhvwha.png)
  ### 2 . Lỗi Password khi cài đặt Mysql-server 
