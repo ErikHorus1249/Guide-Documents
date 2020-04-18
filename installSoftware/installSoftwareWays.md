@@ -97,7 +97,7 @@ Chú ý : Bạn nên sử dụng pip3 để có thể cài đặt các gói vi�
 - [Cài đặt với chính web browser](h)
 - [Cài đặt sử dụng AppImage](h)
 - [Cài đặt sử dụng snap pagkages](h)
-- 
+
 **Xong rồi**
 Cảm ơn bạn đã theo dõi hết bài viết. Mong là bạn đã có nhiều cách hơn để cài đặt ứng dụng trên Ubuntu.
 #### Credit 
