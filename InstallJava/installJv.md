@@ -23,7 +23,7 @@
 
 #### Xong .
 
-#### credit 
+#### End credit 
 - [reference](https://tecadmin.net/install-oracle-java-8-ubuntu-via-ppa/) 
 - author : [Erik Horus](https://github.com/ErikHorus1249)
 
