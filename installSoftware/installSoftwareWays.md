@@ -6,8 +6,14 @@ date : 18/04/2020
 #  Cài đặt Phần mềm trên Ubuntu 
 ## I . Phần mềm sử dụng trên Ubuntu
 ### 1. Giới thiệu 
-  Các phần mềm được sử dụng trên nền tảng [**Ubuntu**](h) rất đa dạng và phong phú nếu ai nói với bạn là dùng Ubuntu ít ứng dụng hay nghèo nàn về nội dung hơn Windows thì họ nhầm rồi. Nhiều ứng dụng mang tính chất và công năng sử dụng tương tự như trên [**Windows**](h) xuất hiện  trên nên tảng Debian nói chung và Ubuntu nói riêng. Quan trọng hơn cả là chúng được phát triển với mục địch phi lợi nhuận tức là miễn phí. Hiện tại thì phần mềm sử dụng trên Ubuntu đề được cung cấp và hỗ trợ từ kho ứng dụng khổng lồ của **[Debian](https://www.debian.org/index.vi.html)**.
-Việc khám phá và sử dụng các phần mềm trên Ubuntu sẽ thay thế dần khoảng trống mà Windows để lại. Hãy thay đổi để cảm nhận những trải nghiệm mới mẻ.
+  Các phần mềm được sử dụng trên nền tảng [**Ubuntu**](h) rất đa dạng và phong phú nếu ai nói với bạn là dùng Ubuntu ít ứng dụng hay nghèo nàn về nội dung hơn Windows thì họ nhầm rồi. Nhiều ứng dụng mang tính chất và công năng sử dụng tương tự như trên [**Windows**](h) xuất hiện  trên nên tảng Debian nói chung và Ubuntu nói riêng. Quan trọng hơn cả là hầu hết chúng được phát triển với mục địch phi lợi nhuận tức là **miễn phí**. Hiện tại thì phần mềm sử dụng trên Ubuntu đề được cung cấp và hỗ trợ từ kho ứng dụng (repository) có 4 kho lưu trữ phần mềm chính là: 
+-   **Main**: phần mềm miễn phí và mã nguồn mở được Canonical hỗ trợ.
+-   **Universe**: phần mềm miện phí và mã nguồn mở được cộng đồng duy trì.
+-   **Restricted**: driver độc quyền cho thiết bị.
+-   **Multiverse**: phần mềm bị hạn chế với bản quyền và các vấn đề pháp lý.
+
+Việc bật các kho lưu trữ này cho phép bạn tải được nhiều phần mềm hơn từ nhiều kho lưu trữ. Để làm điều này, hãy tìm kiếm trong Dash **“Software & Update”.** Ngoài ra bạn còn có thể cài các phần mềm **manual** theo nhiều cách nữa và tôi sẽ giới thiệu ngay sau đây.
+
  
 ### 2. Những cách bạn có thể cài đặt phần mêm trên Ubuntu
  #### a. Sử dụng Ubuntu software 
@@ -67,7 +73,6 @@ Việc khám phá và sử dụng các phần mềm trên Ubuntu sẽ thay thế
 - Cài đặt **[Pip](p)** trong Ubuntu rất đơn giản. Pip thay đổi theo phiên bản Python và theo phiên bản mới nhất của Ubuntu đi kèm với cả **[Python 2](h)** và **[Python 3](h)** theo mặc định, vì vậy bạn chỉ cần kiểm tra phiên bản Python trước khi đi cài đặt cuối cùng.
 - Cài đặt **[Pip](p)** cho Ubuntu
 
-	
 
 > `$ sudo apt install python-pip`
 > 
@@ -97,13 +102,14 @@ Chú ý : Bạn nên sử dụng pip3 để có thể cài đặt các gói vi�
 - [Cài đặt với chính web browser](h)
 - [Cài đặt sử dụng AppImage](h)
 - [Cài đặt sử dụng snap pagkages](h)
-
+- 
 **Xong rồi**
-Cảm ơn bạn đã theo dõi hết bài viết. Mong là bạn đã có nhiều cách hơn để cài đặt ứng dụng trên Ubuntu.
-#### Credit 
-- [**reference**]() 
+Việc khám phá và sử dụng các phần mềm trên Ubuntu sẽ thay thế dần khoảng trống mà Windows để lại. Hãy thay đổi để cảm nhận những trải nghiệm mới mẻ.
+#### End credit 
+- reference 
 	- [**AskUbuntu**](https://askubuntu.com/questions/766900/mysql-doesnt-ask-for-root-password-when-installing) 
 	- [**UbuntuPit**](https://www.ubuntupit.com/how-to-install-software-in-ubuntu-linux-a-complete-guide-for-newbie/)
+	- [**Theo Ubuntu help**](https://help.ubuntu.com/community/Repositories/Ubuntu)
 - author : [**Erik Horus**](https://github.com/ErikHorus1249)
 
 
