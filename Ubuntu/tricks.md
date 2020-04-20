@@ -20,6 +20,8 @@ Bạn có thể setup lệnh gacp bằng cách chèn các câu lệnh bên dư�
 > 
 > alias gacp="git acp"
 
+**[stop](https://unix.stackexchange.com/questions/137183/how-do-you-disable-oh-my-zsh-and-zsh-without-uninstalling-it)**
+
 **[reference](https://topdev.vn/blog/sep-nho-tra-luong-em-gap-10-nha-phan-2-hdh-ubuntu/?fbclid=IwAR2hqmKZfwLx0kXkQOKN9RUjOIw9VvoW_SAZVkZp6NHdfYQBx2DIy3y5_to)** 
 
 
