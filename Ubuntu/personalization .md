@@ -1,3 +1,4 @@
+
 # Tùy chỉnh giao dện Ubuntu 
 
 ## I . 
@@ -9,6 +10,7 @@ Sử dụng [**Neofetch**](https://github.com/dylanaraps/neofetch)
 > `$ neofetch`
 
 ![](https://i.imgur.com/C7EluPH.png)
+
 Cài đặt bằng **PPA**
 
 > `$ sudo add-apt-repository ppa:dawidd0811/neofetch`

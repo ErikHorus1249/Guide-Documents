@@ -1,6 +1,9 @@
 
 
-![](https://i.imgur.com/2VEIasN.jpg)
+<img src="https://i.imgur.com/2VEIasN.jpg" class="center"
+width = 800 height = 300 >
+
+
 
 # Use Linux more effectively :>
 ### I. Lời nói đầu :
