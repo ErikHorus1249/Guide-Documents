@@ -1,4 +1,5 @@
 
+
 ![](https://i.imgur.com/2VEIasN.jpg)
 
 # Use Linux more effectively :>
@@ -11,4 +12,5 @@
  - [ **3. Cài đặt và gỡ MySql Ubuntu**](./MysqlOnUbuntu/MysqlUbuntu.md)
  - [ **4. Cài đặt Java8 Ubuntu** ](./InstallJava/installJv.md)
  - [ **5. Serie về  cài đặt và sử dụng Docker engine**](./G_Docker)
+ - [**6. Personalization**](./Ubuntu/personalization%20.md)
 
