@@ -23,6 +23,7 @@ Việc kích hoạt các kho lưu trữ này cung cấp tất cả phần mềm 
    **Ubuntu software** được cung cấp mặc định trên các phiên bản Ubuntu.
  
  ![Find Snap Apps Faster Using This Online Store | WebSetNet](https://websetnet.net/vi/wp-content/uploads/2018/07/find-snap-apps-faster-using-this-online-store.jpg)
+ 
  Giao diện rất dễ tìm kiếm và cài đặt. Bạn có thể tải như Gnome-tweaks để chỉnh sửa giao diện hay các phần mềm IDE như IntleJ, Netbean, Visual Code  hay các phần mềm chỉnh sửa text như Sublime-text3, Atom . . . Ngoài ra còn có game, các phần mềm giải trí và editor như  Spotify, Vlc. . .
 #### b. Cài phần mềm bằng file .deb
  Cài đặt phần mềm bằng file .deb tương tự như việc bạn cài ứng dụng windows bằng file .exe vậy. Cách này rất đơn giản.
