@@ -40,6 +40,7 @@ Trong một diễn biến xấu là bạn sẽ gặp lỗi như  broken installi
 Về cơ bản việc cài đặt bằng **apt** và  **ubuntu software** là tương tự vì chúng đều cung cấp phần mềm từ repository. Khác ở đây là thay vì dùng giao diện lệnh thì **apt** sử dụng bằng dòng lệnh qua **terminal**.
 
 ![Defense Takeaways from Three Adversary Playbooks | Threatpost](https://media.threatpost.com/wp-content/uploads/sites/103/2018/12/21144206/APT-2018-Year-in-review2.jpg)
+
 Để cài đặt sử dụng lệnh 
 > `$ sudo apt install <nameOfSoftware>`
 #### d. Cài phần mềm bằng lệnh sử dụng PPA 
