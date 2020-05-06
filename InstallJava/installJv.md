@@ -12,7 +12,7 @@
 ### Bước 2 – Kiểm tra và xác nhận việc cài đặt đã thành công chưa 
 
 > 
-> `$ java -version`
+`$ java -version`
 > 
 > openjdk version "1.8.0_222" OpenJDK Runtime Environment (build
 > 1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10) OpenJDK 64-Bit Server VM (build 25.222-b10, mixed mode)
