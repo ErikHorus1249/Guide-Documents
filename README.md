@@ -1,5 +1,6 @@
 
 
+
 <img src="https://i.imgur.com/2VEIasN.jpg" class="center"
 width = 800 height = 300 >
 
@@ -14,6 +15,7 @@ width = 800 height = 300 >
  
  - [ **3. Cài đặt và gỡ MySql Ubuntu**](./MysqlOnUbuntu/MysqlUbuntu.md)
  - [ **4. Cài đặt Java8 Ubuntu** ](./InstallJava/installJv.md)
- - [ **5. Serie về  cài đặt và sử dụng Docker engine**](./G_Docker)
+ - [ **5. Cài đặt và sử dụng Docker engine**](./G_Docker)
  - [**6. Personalization**](./Ubuntu/personalization%20.md)
  - [ **7. Linux log** ](./Ubuntu/Log.md)
+ - [ **8. Lỗi trong quá trình sửa dụng** ](./Boot_Failed/issue1.md)
