@@ -21,3 +21,5 @@ width = 800 height = 300 >
  - [**7. Personalization**](./Ubuntu/personalization%20.md)
  - [ **8. Linux log** ](./Ubuntu/Log.md)
  - [ **9. Lỗi trong quá trình sửa dụng** ](./Boot_Failed/issue1.md)
+ - [ **10. Chỉnh sửa thời gian chờ boot menu** ](./GRUB/Modifying_waiting_time.md)
+
